@@ -1,0 +1,181 @@
+[
+    {
+        "color": "#82530d",
+        "events": [
+            {
+                "description": "Tom came from Plant to DGS-1.",
+                "enddate": "2014-02-28 12:00",
+                "high_threshold": "60",
+                "icon": "circle.png",
+                "id": "1",
+                "importance": "30",
+                "low_threshold": "1",
+                "slug": "",
+                "startdate": "2010-07-01 12:00",
+                "title": "Tom Arrived at DGS-1",
+                "ypix": "0"
+            },
+            {
+                "description": "Left DGS-1 to DGS-5.",
+                "high_threshold": "60",
+                "icon": "circle.png",
+                "id": "2",
+                "importance": "30",
+                "low_threshold": "1",
+                "slug": "",
+                "startdate": "2014-03-01 12:00",
+                "title": "Tom Arrived at DGS-5",
+                "ypix": "0"
+            },
+            {
+                "description": "3 Months maternity leave",
+                "enddate": "2016-08-01",
+                "icon": "circle.png",
+                "id": 3,
+                "importance": "25",
+                "startdate": "2016-04-06",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Lindsey on Maternity Leave"
+            },
+            {
+                "description": "Delayed due to Cat 1 TPRs",
+                "enddate": "2015-06-01",
+                "icon": "square.png",
+                "id": 4,
+                "importance": "30",
+                "startdate": "2014-10-01",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "DGS-5 BR10B Install"
+            },
+            {
+                "description": "Install done via remote login by Paul Williams @ DGS-X",
+                "enddate": "2015-07-05",
+                "icon": "square.png",
+                "id": 5,
+                "importance": "35",
+                "startdate": "2015-07-05",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "GSEG 2012-3p2 Installed at DGS-5"
+            },
+            {
+                "description": "Matt came from DGS-1",
+                "enddate": "2015-10-19",
+                "icon": "circle.png",
+                "id": 6,
+                "importance": "25",
+                "startdate": "2015-10-19",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Matt Harris Arrived at DGS-5"
+            },
+            {
+                "description": "Kit 108 heading to plant for new optics. Kit 107 will replace 108 until repairs done. Then Kit 108 may come to 5th RS (or we may get Kit 104 currently at FTF)",
+                "enddate": "2016-03-25",
+                "icon": "triangle.png",
+                "id": 7,
+                "importance": "45",
+                "startdate": "2016-03-25",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Kit 107 (S2C) left 5th RS for DET-4"
+            },
+            {
+                "description": "Bill Ludwig out for annual meet & greet. ",
+                "enddate": "2015-11-05",
+                "icon": "circle.png",
+                "id": 8,
+                "importance": "15",
+                "startdate": "2015-11-02",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Bill Ludwig site Visit to DGS-5"
+            },
+            {
+                "description": "Mitchell backfill for Tom and Lindsey PTO.",
+                "enddate": "2015-08-04",
+                "icon": "circle.png",
+                "id": 9,
+                "importance": "20",
+                "startdate": "2015-07-06",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Mitchell DGS-5 Backfill"
+            },
+            {
+                "description": "Doug, Eric, Justin and Jeffrey came from Plant for 2C Training",
+                "enddate": "2015-06-27",
+                "icon": "square.png",
+                "id": 10,
+                "importance": "35",
+                "startdate": "2015-06-15",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "DGS-5 S2C Training"
+            },
+            {
+                "description": "Just in time for 2C training!",
+                "enddate": "2015-06-15",
+                "icon": "star.png",
+                "id": 11,
+                "importance": "40",
+                "startdate": "2015-06-15",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Kit 107 (S2C) Arrived at 5th RS"
+            },
+            {
+                "description": "Created in Tom's Garage",
+                "enddate": "2016-04-12",
+                "icon": "square.png",
+                "id": 12,
+                "importance": "30",
+                "startdate": "2016-04-12",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "DGS TimeLine created"
+            },
+            {
+                "description": "Testing on multiple platforms. Likely going to DET-4 in June.",
+                "enddate": "2016-06-13",
+                "icon": "triangle.png",
+                "id": 13,
+                "importance": "25",
+                "startdate": "2016-01-04",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Kit 104 (S2C) at FTF"
+            },
+            {
+                "description": "Annual 2 week drill",
+                "enddate": "2016-06-22",
+                "icon": "circle.png",
+                "id": 14,
+                "importance": "30",
+                "startdate": "2016-06-04",
+                "timelines": [
+                    "dgsTimeline"
+                ],
+                "title": "Matt Reserve Duty"
+            }
+        ],
+        "focus_date": "2010-07-01 12:00",
+        "id": "dgsTimeline",
+        "initial_zoom": "40",
+        "size_importance": "true",
+        "title": "A History of DGS"
+    }
+]
